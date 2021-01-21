@@ -482,7 +482,7 @@ completion.resumeWith(outcome)
 
 **关键类的UML图：**
 
-![图片](https://uploader.shimo.im/f/3xwJIwrwITZTgn2Z.png!thumbnail?fileGuid=8jgRghQyqVcjYWD6)
+![图片](./imgs/img_uml.png)
 
 **1、****AbstractCoroutine.resumeWith()：**
 
@@ -498,7 +498,7 @@ completion.resumeWith(outcome)
 
 **伪时序图：**
 
-![图片](https://uploader.shimo.im/f/3j5GYMXSudaeHbLT.png!thumbnail?fileGuid=8jgRghQyqVcjYWD6)
+![图片](./imgs/img_2.png)
 
 ## 7、协程调度
 
